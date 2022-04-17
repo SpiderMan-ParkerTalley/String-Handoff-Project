@@ -1,3 +1,11 @@
+/**
+ * This was a project done for Parellel and Distrubuted Algorithms (ICS-440). 
+ * The general idea is to pass a string between two threads. 
+ * One thread is a passer (or sender) and on thread is a receiver (or recipient) of the message.
+ * 
+ * @author Parker Talley
+ */
+
 package com.abc.handoff;
 
 import java.util.*;
